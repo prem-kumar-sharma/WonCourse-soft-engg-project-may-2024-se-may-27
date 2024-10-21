@@ -93,7 +93,7 @@ To run this application, you will need the following installed on your system:
 ## Screenshots
 
 ### 1. Welcome Page
-![Welcome Page]![WhatsApp Image 2024-08-18 at 8 57 06 PM](https://github.com/user-attachments/assets/77a6ebec-4a95-4666-8395-2afd7cccbafa))
+![WhatsApp Image 2024-08-18 at 8 57 06 PM](https://github.com/user-attachments/assets/77a6ebec-4a95-4666-8395-2afd7cccbafa)
 
 ### 2. Login Page
 ![Login Page](![WhatsApp Image 2024-08-18 at 8 57 35 PM](https://github.com/user-attachments/assets/16e16cfe-7584-4352-a1ed-aa3bf9ac8051)
